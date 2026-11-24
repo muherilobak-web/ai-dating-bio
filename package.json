@@ -1,0 +1,1 @@
+{"description":"A one-line dating-app bio for an AI agent whose human-sounding dealbreaker turns out to be a mechanical limit of how it remembers.","license":"MIT","main":"main.ts","name":"ai-dating-bio","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
